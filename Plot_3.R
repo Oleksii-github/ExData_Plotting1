@@ -1,4 +1,3 @@
-setwd("C:/Users/oleks/Desktop/Programming/Hopkins_University_2020_Coursera/Forth_course_Exploratory_data_analysis/Week_1/ExData_Plotting1")
 
 
 library(dplyr)
